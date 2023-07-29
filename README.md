@@ -6,7 +6,7 @@
 !pip install opencv-python
 
 
-#### How to run
+### How to run
 When image.jpg is loaded in the current working directory and when this code is run. Then it predicts orange and apple present in the  Photo
 
 This is the output
